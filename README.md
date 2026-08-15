@@ -19,7 +19,7 @@ This script is designed to eliminate repetitive typing and constant tab-switchin
 - **Dual-Control Automation:**
     - **Left-Click:** Cycles through an unlimited list of predefined keywords (e.g., `"word 1"` → `"word 2"` → `"word 3"`).
     - **Middle-Click:** Directly injects your current clipboard content into the field without affecting the keyword cycle.
-	- **Persistent Cycle Memory:** Unlike standard scripts, this one remembers your position in the keyword cycle even after refreshing the page or navigating to a different URL. It uses local storage to ensure your workflow is never interrupted by page reloads.
+	- **Persistent Cycle Memory:** Remembers your position in the keyword cycle even after refreshing the page or navigating to a different URL. It uses local storage to ensure your workflow is never interrupted by page reloads.
 - **High-Velocity Workflow:** Optimized for tasks that require alternating between a set of recurring variables and a unique, external reference. It eliminates the typing fatigue by keeping all necessary data at your fingertips.
 
 **Note:** The middle-click implementation includes a `preventDefault` trigger to disable the browser's auto-scroll icon, ensuring a clean and focused experience.
@@ -85,7 +85,7 @@ A script designed to speed up product listings in Prestashop (Tested on v1.7.8.1
 
 ## Cosmo Editor Helper Enhanced
 
-The spiritual successor to the Prestashop Helper, custom-built to interface with a private Python/Flask-based internal editor webapp. It transforms a minimal data-entry tool into a high-performance automation workstation.
+The spiritual successor to the Prestashop Helper, custom-built to interface with a private Python/Flask-based internal editor webapp.
 
 <details>
 <summary><b>Click to see all Features</b></summary>
@@ -174,7 +174,7 @@ A lead generation assistant. It extracts geographical data from Scholarum record
 - **Image-to-Link Conversion:** Wraps school thumbnails in search links, expanding the clickable area for a faster workflow.
 - **Visual Feedback:** Adds a purple color indicator on click to keep track of processed records.
 
-<img alt="demo" src="./gifs/Scholarum.gif" height="280" />
+<img alt="demo" src="./gifs/Scholarum.gif" height="280"/>
 
 ---
 
@@ -187,7 +187,7 @@ A lead generation assistant. It sanitizes school names on Niche.com and generate
 - **Automatic Navigation:** Features an auto-scroll trigger for GreatSchools pages to jump straight to the contact section.
 - **Visual Feedback:** Adds a purple color indicator on click to keep track of processed records.
 
-<img alt="demo" src="./gifs/Niche.gif" height="280" />
+<img alt="demo" src="./gifs/Niche.gif" height="280"/>
 ---
 
 ## Clear Channel Billboards Helper - Auto PDF Downloader and Renamer
@@ -199,7 +199,7 @@ A specialized utility for renaming PDF exports by extracting data directly from 
 - **Auto-Download Trigger:** Programmatically generates a download event, renaming the file to match the internal reference (e.g., BillboardID.pdf) automatically.
 
 **Note:** This script eliminates the manual task of opening a PDF, finding the ID, and renaming the file on the computer. The entire process is now a single-click operation. You can test this script [here](https://cco.my.salesforce-sites.com/slickspdf?ids=510784).
-<img alt="demo" src="./gifs/ClearChannel.gif" height="280" />
+<img alt="demo" src="./gifs/ClearChannel.gif" height="280"/>
 
 ---
 
@@ -214,7 +214,7 @@ A multi-stage automation tool designed to bridge the gap between map-based visua
 
 **Note:** This is a high-level productivity tool. It transforms a process that required constant tab-switching and manual typing into a streamlined workflow where the user only needs to make two clicks (Direction and Side).
 
-<img alt="demo" src="./gifs/OutfrontFull.gif" height="280" />
+<img alt="demo" src="./gifs/OutfrontFull.gif" height="280"/>
 ---
 
 ## Lamar Billboards Helper - Data Collector
@@ -228,5 +228,4 @@ A high-precision data extraction tool for Lamar’s billboard data platform. It 
 
 **Note:** This script eliminates the need for manual looking for Zip and County when extracting data. It transforms a multi-step research process into a streamlined workflow where the geographic context is provided automatically.
 
-<img alt="demo" src="./gifs/Lamar.gif" height="280" />
-
+<img alt="demo" src="./gifs/Lamar.gif" height="280"/>
