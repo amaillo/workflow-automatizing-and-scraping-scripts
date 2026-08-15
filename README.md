@@ -23,7 +23,6 @@ This script is designed to eliminate repetitive typing and constant tab-switchin
 - **High-Velocity Workflow:** Optimized for tasks that require alternating between a set of recurring variables and a unique, external reference. It eliminates the typing fatigue by keeping all necessary data at your fingertips.
 
 **Note:** The middle-click implementation includes a `preventDefault` trigger to disable the browser's auto-scroll icon, ensuring a clean and focused experience.
-<img alt="demo" src="./gifs/Renamer.gif" height="280" />
 ---
 
 ## Prestashop Helper
@@ -79,8 +78,8 @@ A script designed to speed up product listings in Prestashop (Tested on v1.7.8.1
 - **Reactive UI:** The script waits for elements to appear before acting, preventing errors on slow-loading pages.
 - **User Simulation:** Instead of just forcing text into boxes, it simulates real typing. This ensures Prestashop's background logic triggers and manages data correctly.
 - **Easy Customization:** You can easily tweak the `blackList`, `synonyms`, or `itemTitleInParts` arrays at the top of the code to fit different stores.
+  
 <img alt="demo" src="./gifs/Prestashop.gif" height="280" />
-
 ---
 
 ## Cosmo Editor Helper Enhanced
@@ -113,6 +112,7 @@ The spiritual successor to the Prestashop Helper, custom-built to interface with
 - **Reliable Selectors:** Uses robust fallback logic to find DOM elements in a simplified, non-standardized internal UI.
 
 </details>
+
 <img alt="demo" src="./gifs/Cosmo1.gif" height="280" />
 ---
 
@@ -141,7 +141,7 @@ The last script in the Cosmo series, developed to handle high-volume database up
 
 **Note:** Both Cosmo Editor Helper scripts are specifically tailored for a closed-source internal application. Their value is to demonstrate advanced DOM manipulation, heuristic-based automation, and workflow optimization.
 
-<img alt="demo" src="./gifs/Cosmo2.gif" height="280" />
+<img alt="demo" src="./gifs/Cosmo2.gif" height="280"/>
 ---
 
 ## Sequential Imagename Increaser
@@ -160,7 +160,7 @@ This script was the engine for a rapid-fire saving technique:
 
 **Note:** A practical "quality of life" tool. It turned a tedious renaming process into a mechanical sequence of keystrokes.
 
-<img alt="demo" src="./gifs/Renamer.gif" height="280" />
+<img alt="demo" src="./gifs/Renamer.gif" height="280"/>
 ---
 
 ## Scholarum Search Preparer
