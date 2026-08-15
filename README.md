@@ -23,7 +23,7 @@ This script is designed to eliminate repetitive typing and constant tab-switchin
 - **High-Velocity Workflow:** Optimized for tasks that require alternating between a set of recurring variables and a unique, external reference. It eliminates the typing fatigue by keeping all necessary data at your fingertips.
 
 **Note:** The middle-click implementation includes a `preventDefault` trigger to disable the browser's auto-scroll icon, ensuring a clean and focused experience.
-
+<img alt="demo" src="./gifs/Renamer.gif" height="280" />
 ---
 
 ## Prestashop Helper
@@ -79,6 +79,7 @@ A script designed to speed up product listings in Prestashop (Tested on v1.7.8.1
 - **Reactive UI:** The script waits for elements to appear before acting, preventing errors on slow-loading pages.
 - **User Simulation:** Instead of just forcing text into boxes, it simulates real typing. This ensures Prestashop's background logic triggers and manages data correctly.
 - **Easy Customization:** You can easily tweak the `blackList`, `synonyms`, or `itemTitleInParts` arrays at the top of the code to fit different stores.
+<img alt="demo" src="./gifs/Prestashop.gif" height="280" />
 
 ---
 
@@ -112,7 +113,7 @@ The spiritual successor to the Prestashop Helper, custom-built to interface with
 - **Reliable Selectors:** Uses robust fallback logic to find DOM elements in a simplified, non-standardized internal UI.
 
 </details>
-
+<img alt="demo" src="./gifs/Cosmo1.gif" height="280" />
 ---
 
 ## Cosmo Editor 2 Helper
@@ -140,6 +141,7 @@ The last script in the Cosmo series, developed to handle high-volume database up
 
 **Note:** Both Cosmo Editor Helper scripts are specifically tailored for a closed-source internal application. Their value is to demonstrate advanced DOM manipulation, heuristic-based automation, and workflow optimization.
 
+<img alt="demo" src="./gifs/Cosmo2.gif" height="280" />
 ---
 
 ## Sequential Imagename Increaser
@@ -158,6 +160,7 @@ This script was the engine for a rapid-fire saving technique:
 
 **Note:** A practical "quality of life" tool. It turned a tedious renaming process into a mechanical sequence of keystrokes.
 
+<img alt="demo" src="./gifs/Renamer.gif" height="280" />
 ---
 
 ## Scholarum Search Preparer
@@ -170,6 +173,8 @@ A lead generation assistant. It extracts geographical data from Scholarum record
 - **Image-to-Link Conversion:** Wraps school thumbnails in search links, expanding the clickable area for a faster workflow.
 - **Visual Feedback:** Adds a purple color indicator on click to keep track of processed records.
 
+<img alt="demo" src="./gifs/Scholarum.gif" height="280" />
+
 ---
 
 ## Niche & GreatSchools Search Linker
@@ -181,6 +186,7 @@ A lead generation assistant. It sanitizes school names on Niche.com and generate
 - **Automatic Navigation:** Features an auto-scroll trigger for GreatSchools pages to jump straight to the contact section.
 - **Visual Feedback:** Adds a purple color indicator on click to keep track of processed records.
 
+<img alt="demo" src="./gifs/Niche.gif" height="280" />
 ---
 
 ## Clear Channel Billboards Helper - Auto PDF Downloader and Renamer
@@ -192,6 +198,7 @@ A specialized utility for renaming PDF exports by extracting data directly from 
 - **Auto-Download Trigger:** Programmatically generates a download event, renaming the file to match the internal reference (e.g., BillboardID.pdf) automatically.
 
 **Note:** This script eliminates the manual task of opening a PDF, finding the ID, and renaming the file on the computer. The entire process is now a single-click operation. You can test this script [here](https://cco.my.salesforce-sites.com/slickspdf?ids=510784).
+<img alt="demo" src="./gifs/ClearChannel.gif" height="280" />
 
 ---
 
@@ -205,7 +212,7 @@ A multi-stage automation tool designed to bridge the gap between map-based visua
 - **Workflow Optimization:** Features a custom manual "Hand" selection (Left/Right) and a "Copy-to-Clipboard" trigger that formats all data specifically for spreadsheet entry.
 
 **Note:** This is a high-level productivity tool. It transforms a process that required constant tab-switching and manual typing into a streamlined workflow where the user only needs to make two clicks (Direction and Side).
-
+<img alt="demo" src="./gifs/OutfrontFull.gif" height="280" />
 ---
 
 ## Lamar Billboards Helper - Data Collector
@@ -218,3 +225,6 @@ A high-precision data extraction tool for Lamar’s billboard data platform. It 
 - **Instant PDF Workflow:** Features a Spacebar hotkey that automatically renames the billboard ID for PDF exporting and triggers the print dialog in one motion.
 
 **Note:** This script eliminates the need for manual looking for Zip and County when extracting data. It transforms a multi-step research process into a streamlined workflow where the geographic context is provided automatically.
+
+<img alt="demo" src="./gifs/Lamar.gif" height="280" />
+
