@@ -23,6 +23,7 @@ This script is designed to eliminate repetitive typing and constant tab-switchin
 - **High-Velocity Workflow:** Optimized for tasks that require alternating between a set of recurring variables and a unique, external reference. It eliminates the typing fatigue by keeping all necessary data at your fingertips.
 
 **Note:** The middle-click implementation includes a `preventDefault` trigger to disable the browser's auto-scroll icon, ensuring a clean and focused experience.
+
 ---
 
 ## Prestashop Helper
@@ -212,6 +213,7 @@ A multi-stage automation tool designed to bridge the gap between map-based visua
 - **Workflow Optimization:** Features a custom manual "Hand" selection (Left/Right) and a "Copy-to-Clipboard" trigger that formats all data specifically for spreadsheet entry.
 
 **Note:** This is a high-level productivity tool. It transforms a process that required constant tab-switching and manual typing into a streamlined workflow where the user only needs to make two clicks (Direction and Side).
+
 <img alt="demo" src="./gifs/OutfrontFull.gif" height="280" />
 ---
 
