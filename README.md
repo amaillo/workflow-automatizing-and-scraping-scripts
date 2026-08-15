@@ -10,6 +10,8 @@ To use these automation scripts, you will need a userscript manager like Tamperm
 3. **Copy & Paste**: Paste the code from `script1.js` or `script2.js` into the editor.
 4. **Save**: Press `Ctrl+S` (or File > Save). The script will now run automatically on the specified product management domains.
 
+**Note:** Not all the scripts have their code public.
+
 ---
 
 ## Smart Keyword Cycler & Dynamic Clipboard
